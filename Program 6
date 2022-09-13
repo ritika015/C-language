@@ -1,0 +1,9 @@
+/* C program to print poem using printf() */
+
+int main(void)
+{
+    printf("Yeah the past was honestly the best,\n");
+    printf("But my best is what comes next,\n");
+    printf("Imma playin nah fo sure,\n");
+    return 0;
+}
